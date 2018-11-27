@@ -9,7 +9,7 @@
   "scripts": {
     "test": "./node_modules/lab/bin/lab -a code -v -t 100",
     "lint": "./node_modules/.bin/prettier --write '**/*.js'",
-    "doc": "./node_modules/.bin/jsdoc -t node_modules/@otris/jsdoc-tsd -r ./lib -d ./lib/index.d.ts"
+    "ts-doc": "./node_modules/.bin/jsdoc -t node_modules/@otris/jsdoc-tsd -r ./lib -d ./lib/index.d.ts"
   },
   "opts": {
     "template": "./node_modules/@otris/jsdoc-tsd"
