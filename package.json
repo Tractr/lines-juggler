@@ -22,6 +22,10 @@
   ],
   "author": "Edouard Demotes <edouard@tractr.net>",
   "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Tractr/lines-juggler/issues"
+  },
+  "homepage": "https://github.com/Tractr/lines-juggler#readme",
   "devDependencies": {
     "@otris/jsdoc-tsd": "^1.0.4",
     "code": "^5.2.0",
